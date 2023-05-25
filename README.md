@@ -42,7 +42,9 @@
 
 12. Now hit "Launch" located on the right hand side, optionally double click the D3CO. logo
 13. It will prompt you to add a Microsoft or Mojang account
-13. Enjoy!
+14. After adding your Microsoft/Mojang account you are ready to run!
+15. Initial loading times will be a bit slow, I recommend you let Minecraft load fully then relaunch it
+16. Enjoy!
 
 Bonus:
 You can modify the memory usage by selecting "Edit Instance" on the right hand side, navigating to "Settings", and filling in your desired amount of memory. The more the marrier but anything above 12GB is probably not needed.

@@ -1,0 +1,107 @@
+Another Furniture
+AppleSkin
+Arrow Entity Loot Drop
+Arrow Popper
+Axes Are Weapons
+BackpackMod
+BackSlot
+Balm
+Banilla Claws
+Banilla Hammers
+Banilla Knives
+Bedspreads
+BetterF3
+Blåhaj
+Blossom
+Bobby
+Bundle Jumble
+Camera Utils
+Cammie's Minecart Tweaks
+CC: Restitched
+CC:C Bridge
+Celestria
+Cloth Config API
+Clutter
+Collective
+Comforts
+Companion 🐕
+Continuity
+Create: Crystal Clear Refabricated
+Create Fabric
+Create Crafts & Additions
+Cull Clouds
+Detail Armor Bar
+Discord4Fabric
+Entity Culling
+Fabric API
+Fabric Language Kotlin
+FallingTree
+Farmer's Delight [Fabric]
+Forge Config API Port
+GeckoLib
+Guarding!
+Healing Campfire
+Horse Buff
+Iceberg
+Immersive Paintings
+Indium
+Inventory Profiles Next
+Iris Shaders
+Item Borders
+Keymap
+Kiwi 🥝
+Krypton
+Ledger
+libIPN
+Lithium
+LuckPerms
+More Axolotl Variants API
+More Axolotl Variants Mod
+microDurability
+MidnightLib
+Missing Wilds
+Mob Captains
+Mod Menu
+More Babies
+More Bows: Restrung!
+More End Cities
+More Mob Variants
+More Mobs
+More Slabs Stairs & Walls
+More Villagers [Fabric]
+More Weaponry
+More Frogs
+Naturalist
+Nbt Crafting
+Oxidized
+Phosphor
+Polymorph
+Reese's Sodium Options
+Sodium Extra
+Sodium
+spark
+Styled Chat
+Styled Nicknames
+Styled Player List
+Technopig
+Tinkerer's Smithing
+Towns and Towers
+Traveler's Titles
+Traverse
+Trinkets (Fabric)
+Twigs
+Wanderer's Catalogue
+way2wayfabric
+Waystones
+Xaero's Minimap
+Xaero's World Map
+YUNG's API
+YUNG's Better Desert Temples
+YUNG's Better Dungeons
+YUNG's Better Mineshafts
+YUNG's Better Nether Fortresses
+YUNG's Better Ocean Monuments
+YUNG's Better Strongholds
+YUNG's Better Witch Huts
+YUNG's Bridges
+YUNG's Extras

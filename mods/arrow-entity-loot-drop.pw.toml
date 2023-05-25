@@ -1,0 +1,13 @@
+name = "Arrow Entity Loot Drop"
+filename = "arrow-entity-loot-drop-1.1.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2736860559db75d7cfa99f7bb7636e8b554daa4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4109658
+project-id = 709796

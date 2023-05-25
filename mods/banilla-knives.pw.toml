@@ -1,0 +1,13 @@
+name = "Banilla Knives"
+filename = "banilla-knives-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KjG0XLhZ/versions/1.1.1/banilla-knives-1.1.1.jar"
+hash-format = "sha1"
+hash = "2f5cd6055007cd57be943d2d32a55aa21c2d9d40"
+
+[update]
+[update.modrinth]
+mod-id = "KjG0XLhZ"
+version = "pGTsUaXs"

@@ -1,0 +1,17 @@
+name = "D3CO."
+author = "rkben"
+version = "0.2 WTB Edition"
+description = "Deaths Consortium Mod pack"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b7b1577482ac66b10e1783c64b1a367a976eedcf134229b500dc662410f5ae42"
+
+[versions]
+fabric = "0.14.20"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19"]

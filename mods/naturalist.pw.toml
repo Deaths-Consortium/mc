@@ -1,0 +1,13 @@
+name = "Naturalist"
+filename = "naturalist-fabric-3.0.3-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "647839f7b672773c8d96d076fd74bddad0430e9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4544558
+project-id = 627986

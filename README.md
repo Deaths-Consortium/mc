@@ -25,7 +25,7 @@
 3. Drag and drop the `MultiMC` folder on to your desktop
 4. Open the `MultiMC` folder and run `MultiMC.exe`
 5. Tell Windows to "Run anyway"
-6. Work through the initial setup (if Java isn't ping in Discord)
+6. Work through the initial setup (if Java isn't installed or MultiMC fails to find it, ping in Discord)
 7. Click "Add Instance"
 
 ![](https://quad.pe/e/Ji2PWvy1GN.png)

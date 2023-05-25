@@ -20,12 +20,23 @@
 --------
 
 ### Installation
+#### Java 17
+- Grab [JDK 17 - (This is a direct download)](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
+- Install it
+
+#### MultiMC
 1. Grab [MultiMC](https://multimc.org/)
 2. Double click the `mmc-develop-win32.zip`
 3. Drag and drop the `MultiMC` folder on to your desktop
 4. Open the `MultiMC` folder and run `MultiMC.exe`
 5. Tell Windows to "Run anyway"
 6. Work through the initial setup (if Java isn't installed or MultiMC fails to find it, ping in Discord)
+    * If Java verison 17 (or 17+) isnt found
+    * Select "Browse" and navigate to `C:\Program Files\Java\jdk-17\bin\`
+    * Select `javaw.exe` and hit "Open"
+    * Highlight the `17.0.x` entry in the list and click the green checkmark
+    * If you see the "Java test success", you are good to move on
+    * ![](https://quad.pe/e/gVTjzZyClC.png)
 7. Click "Add Instance"
 
 ![](https://quad.pe/e/Ji2PWvy1GN.png)

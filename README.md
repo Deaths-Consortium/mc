@@ -1,7 +1,7 @@
 # D3CO. Minecraft: WTB! Edition
 **Version: 0.2 WTB Edition**
 
-### [MOD LIST](https://github.com/Deaths-Consortium/mc/blob/main/README.md)
+### [MOD LIST](https://github.com/Deaths-Consortium/mc/blob/main/mod_list.txt)
 -------
 ### Requirements
 - [MultiMC](https://multimc.org/)
